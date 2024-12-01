@@ -1,0 +1,3 @@
+[submodule "asst1"]
+	path = asst1
+	url = https://github.com/stanford-cs149/asst1.git
